@@ -1,2 +1,2 @@
 # ode-geometry
-Mathematica routines for exploring the geometry of ODEs
+Mathematica routines for exploring the geometry of ODEs (defunct)
